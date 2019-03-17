@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['redoenabledchanged',['RedoEnabledChanged',['https://common.nanobyte.de/class_nano_byte_1_1_common_1_1_undo_1_1_command_manager.html#a8f70e27f7b23016f590daacf0c1c2d97',1,'NanoByte::Common::Undo::CommandManager::RedoEnabledChanged()'],['https://common.nanobyte.de/interface_nano_byte_1_1_common_1_1_undo_1_1_i_command_manager.html#a9915cd35bfa9b25f401fce7a93ab8d8e',1,'NanoByte::Common::Undo::ICommandManager::RedoEnabledChanged()']]],
+  ['removed',['Removed',['https://common.nanobyte.de/class_nano_byte_1_1_common_1_1_collections_1_1_monitored_collection.html#a257e843bcb2d206bae4fd99d6ed70bfd',1,'NanoByte::Common::Collections::MonitoredCollection::Removed()'],['https://common.nanobyte.de/class_nano_byte_1_1_common_1_1_collections_1_1_monitored_collection.html#a257e843bcb2d206bae4fd99d6ed70bfd',1,'MonitoredCollection&lt; TModel &gt;::Removed()']]],
+  ['removing',['Removing',['https://common.nanobyte.de/class_nano_byte_1_1_common_1_1_collections_1_1_monitored_collection.html#a87c2559f68002e840a04352bb95ce399',1,'NanoByte::Common::Collections::MonitoredCollection::Removing()'],['https://common.nanobyte.de/class_nano_byte_1_1_common_1_1_collections_1_1_monitored_collection.html#a87c2559f68002e840a04352bb95ce399',1,'MonitoredCollection&lt; TModel &gt;::Removing()']]]
+];
